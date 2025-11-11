@@ -36,6 +36,10 @@ body{
     font-size: 25px;
     font-weight: 800;
 }
+.card-title:hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
 .card-info{
     font-size: 16px;
     font-weight: 500;
@@ -54,3 +58,4 @@ body{
     white-space: nowrap;
     font-weight: 700;
 }
+
